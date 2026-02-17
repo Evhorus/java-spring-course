@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: java-spring-course
+  profiles:
+    active: dev
