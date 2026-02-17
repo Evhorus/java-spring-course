@@ -1,16 +1,8 @@
 # Spring Boot Web
 
 ## Informacion General
-
-| Campo | Valor |
-| --- | --- |
-| Nombre del proyecto | `java-spring-course` |
-| Group ID | `com.evhorus` |
-| Artifact ID | `java-spring-course` |
-| Version | `0.0.1-SNAPSHOT` |
-| Descripcion | `Spring Course` |
-| Java | `17` |
-| Spring Boot | `3.5.10` |
+- Java Version  `17` 
+- Spring Boot Version `3.5.10`
 
 ## Estructura del Proyecto (Hexagonal)
 
